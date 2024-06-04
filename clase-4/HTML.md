@@ -2,4 +2,4 @@
 
 ### Extension 
 
-`
+`.html`
